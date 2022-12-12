@@ -1,0 +1,16 @@
+{
+  "name": "com.wolffun.alttester",
+  "displayName": "Alt Tester",
+  "version": "1.8.0",
+  "unity": "2021.3",
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "author": {
+    "name": "Alt",
+    "url": "https://github.com/felixngd"
+  },
+  "type": "library",
+  "description": "A package for automation testing"
+}
